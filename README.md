@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Churchill ATCHEDJI
-- 🌱 I’m currently learning on ReactJs, NodeJs, Express and NestJS, Java for learning the principal aspect of object oriented programming, and functional programaming.
+- 🌱 I’m currently learning on ReactJs, NodeJs, Express and NestJS, Java for the principal aspect of object oriented programming, and functional programaming.
 - 📫 How to reach me : atchedjichurchill@gmail.com
 
 <!---
