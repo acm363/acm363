@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Churchill ATCHEDJI
-- 👀 I’m interested in developping web projects basing on reactJS, nestJS other JS library, I'm so interested in developping desktop software.
 - 🌱 I’m currently learning on ReactJs, NodeJs, Express and NestJS, Java for learning the principal aspect of object oriented programming, and functional programaming.
 - 📫 How to reach me : atchedjichurchill@gmail.com
 
